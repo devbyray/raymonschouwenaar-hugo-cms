@@ -6,6 +6,7 @@ description: >-
   But sometimes you just don’t know what kind of properties that Object has.
   Lucky we are that JavaScript offers a few ways of looping over JavaScript
   Object properties.
+image: /img/how-to-check-equality-of-values-in-javascript-1024x576.jpg
 ---
 It happens a lot that you need to loop over an Array with JavaScript Objects! But sometimes you just don’t know what kind of properties that Object has. Lucky we are that JavaScript offers a few ways of looping over JavaScript Object properties.
 
